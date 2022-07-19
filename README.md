@@ -1,5 +1,4 @@
 # Image-Synthesis-Flowers
-Using GANs to synthesize beautiful images of flowers.
 
 In this project I used Generative Adversarial Neural-Networks to synthesize images of flowers.
 
