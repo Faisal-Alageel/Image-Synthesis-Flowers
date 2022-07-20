@@ -15,4 +15,10 @@ I created my GAN and trained it from scratch with the help of Keras API.
 The training set is Oxfords flowers dataset.
 
 
+## Text-To-Image (Additional Section)
+Additinally, I implemented a Conditional Generative Adversarial Neural Network (CGAN), using Language Models & Convolutional Neural Networks. 
 
+Then trained the model on the same images dataset but with a text discribtion. Below are some of the results and my experiments with it. 
+I’ll show how it extracts semantics from text to create fake images of flowers. The model interprets single colors, as well as combinations of colors to synthesize images of flowers.
+
+![Screenshot](Screenshot1.JPG)
