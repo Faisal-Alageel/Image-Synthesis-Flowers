@@ -21,4 +21,16 @@ Additinally, I implemented a Conditional Generative Adversarial Neural Network (
 Then trained the model on the same images dataset but with a text discribtion. Below are some of the results and my experiments with it. 
 I’ll show how it extracts semantics from text to create fake images of flowers. The model interprets single colors, as well as combinations of colors to synthesize images of flowers.
 
+
 ![Screenshot](Screenshot1.JPG)
+![Screenshot](Screenshot2.JPG)
+![Screenshot](Screenshot3.JPG)
+
+#The model works by combining a vector of randomly generated numbers (latent victor) with a text input to generate a unique image :
+![Screenshot](Screenshot4.JPG)
+
+This means that multiple versions of a single image can be generate, by using the same latent victor but with different text inputs. Below is a demonstration:
+
+![Screenshot](Screenshot5.JPG)
+
+
