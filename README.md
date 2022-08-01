@@ -12,7 +12,7 @@ And then trained both networks simultaneously, By training the discriminator to 
 I created my GAN and trained it from scratch with the help of Keras API.
 
 ## Dataset
-The training set is Oxfords flowers dataset.
+The training set is Oxfords flowers dataset. 
 
 
 ## Text-To-Image (Additional Section)
